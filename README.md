@@ -11,7 +11,7 @@ yarn dev
 # or
 pnpm dev
 
-and run
+# and run
 npm install react-dom
 ```
 
